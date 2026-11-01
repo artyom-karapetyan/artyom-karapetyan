@@ -1,9 +1,25 @@
-## Hi there 👋
+<div align="left">
 
-<p align="right">
-  <img src="koi/koi.gif" width="220" alt="Git Koi" />
-</p>
+# Hey, I'm Artyom 👋
 
+<img src="koi/koi.gif" alt="Git Koi" />
+
+BSc Computer Science student at **University College London (UCL)**.  
+
+---
+
+### 🛠️ Tech Stack & Focus
+- **Languages:** Python, C++, C
+- **Current Projects:** 
+  - `dl-equity-trend-predictor` — Weak-form EMH testing via stacked LSTM
+  - `simpletron` — SML processor & virtual machine simulator
+  - `quantum-computing` - Local simulations of quantum circuits
+
+---
+
+<sub>🐟 <i>Fun fact: The koi fish above dynamically grows, shifts colors, and changes swim patterns with my public commit activity.</i></sub>
+
+</div>
 <!--
 **artyom-karapetyan/artyom-karapetyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
