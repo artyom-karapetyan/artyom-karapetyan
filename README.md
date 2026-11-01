@@ -1,25 +1,32 @@
-<div align="left">
-
 # Hey, I'm Artyom 👋
 
-<img src="koi/koi.gif" alt="Git Koi" />
+<div align="left">
+  <img src="koi/koi.gif" alt="Git Koi" style="max-width: 320px; height: auto;" />
+</div>
 
 BSc Computer Science student at **University College London (UCL)**.  
 
----
-
-### 🛠️ Tech Stack & Focus
-- **Languages:** Python, C++, C
-- **Current Projects:** 
-  - `dl-equity-trend-predictor` — Weak-form EMH testing via stacked LSTM
-  - `simpletron` — SML processor & virtual machine simulator
-  - `quantum-computing-sims` - Local simulations of quantum circuits
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artyom-karapetyan-dev)
 
 ---
 
-<sub>🐟 <i>Fun fact: The koi fish above dynamically grows, shifts colors, and changes swim patterns with my public commit activity.</i></sub>
+### 🛠️ Tech Stack & Skills
 
-</div>
+* **Languages:** Python, C++, C
+* **Frameworks & Build Tools:** CMake, GTest
+* **Libraries:** Pandas, NumPy, Matplotlib, TensorFlow, Scikit-learn, Qiskit
+
+---
+
+### 🚀 Projects
+
+* `dl-equity-trend-predictor` — Weak-form EMH testing via stacked LSTM
+* `simpletron` — SML processor & virtual machine simulator
+* `quantum-computing-sims` — Local simulations of quantum circuits
+
+---
+
+<sub>🐟 <i>The koi fish above dynamically grows, unlocks scales/patterns, and evolves based on my public GitHub activity.</i></sub>
 <!--
 **artyom-karapetyan/artyom-karapetyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
