@@ -13,7 +13,7 @@ BSc Computer Science student at **University College London (UCL)**.
 - **Current Projects:** 
   - `dl-equity-trend-predictor` — Weak-form EMH testing via stacked LSTM
   - `simpletron` — SML processor & virtual machine simulator
-  - `quantum-computing` - Local simulations of quantum circuits
+  - `quantum-computing-sims` - Local simulations of quantum circuits
 
 ---
 
