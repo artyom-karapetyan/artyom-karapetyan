@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Git Koi](koi/koi.gif)
+<p align="right">
+  <img src="koi/koi.gif" width="220" alt="Git Koi" />
+</p>
 
 <!--
 **artyom-karapetyan/artyom-karapetyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
